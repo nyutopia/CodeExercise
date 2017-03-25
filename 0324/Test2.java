@@ -27,7 +27,7 @@ public class Test2{
     }
 }
 
-public class Test2{
+public class Test2       {
     public String LeftRotateString(String str,int n) {
         if(str == null||str.length()==0) return "";
         int len = str.length();
